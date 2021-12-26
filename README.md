@@ -10,4 +10,5 @@ The Makefile could be useful to one who would want to automatically generate a p
 apt update && apt get texlive-xetex
 ```
 
-**For best results**, install Mozilla's [Fira Sans](https://github.com/bBoxType/FiraSans).
+**For best results**, install Mozilla's [Fira Sans](https://github.com/bBoxType/FiraSans) for the [`metropolis`](https://github.com/matze/mtheme) Beamer theme.
+
